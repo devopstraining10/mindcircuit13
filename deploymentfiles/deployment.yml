@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: devopshubg333/batch13:5
+        image: priya1016/batch13-practice:httpdimage
         ports:
         - containerPort: 8080
 
